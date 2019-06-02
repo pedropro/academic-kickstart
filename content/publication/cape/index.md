@@ -3,7 +3,7 @@
 
 title: "Fast Cylinder and Plane Extraction from Depth Cameras for Visual Odometry"
 authors: [Pedro F. Proença, Yang Gao]
-date: 2019-05-31T14:33:10+01:00
+date: 2018-12-31T14:33:10+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
